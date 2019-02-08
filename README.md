@@ -1,7 +1,8 @@
 # flutterar
 
-A new Flutter project.
+Flutter Doodles.
 
+![Game demo](https://github.com/raj2611/flutterDoodles/blob/master/ScreenRecording-12-26-2018%2013-31-13.MP4)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
